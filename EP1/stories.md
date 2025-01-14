@@ -41,7 +41,7 @@ Working on those sensor thingies. Mid-bite at lunch, I remembered how much I dig
 Btw, lunch was blah today. That vitamin B taste could raise the dead. When will I stop needing extra supplements?
 
 A.R.175, Day 227 <br>
-Stood on the Fortress wall tonight, just me and the horizon. Dreaming about the day we wrap up the Atlas. But there's this hollow feeling... Where do we fit in this grand picture? Where are our lives and dreams in all this?
+Stood on the Fortress wall tonight, just me and the horizon. Dreaming about the day we wrap up the Atlas. But there's this hollow feeling...
 
 
 ## FT E - Quantified Persona
