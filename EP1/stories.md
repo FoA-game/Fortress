@@ -18,6 +18,7 @@ To realize this grand vision, Fortress will consolidate and redistribute all ava
 According to Logiceus’ precise calculations, if timelines are strictly adhered to, the Atlas Project has a 99% probability of completion within 117 years. By then, Auroria will emerge as a new world interwoven with technology and hope, where lights reignite human dreams, illuminating a new age reborn from the ashes.
 
 For the greatest good!
+
 White Tower Council
 
 
