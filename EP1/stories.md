@@ -24,11 +24,23 @@ White Tower Council
 
 ## FT C - Leviathan
 
-Logiceus, the world's second-largest artificial intelligence, is not only the embodiment of reason but also the core of the Fortress's operations. Its existence heralds an era dominated by calm, precise logic.
+Sender: Internal Engineer Communication Group
 
-Logiceus permeates every corner of Fortress, every machine, every engineer's life. Day after day, it receives directives from Upper Nuovartica, managing complex engineering projects and assigning precise daily tasks to each resident. Every morning, as the first rays of sunlight pierce through the heavy clouds, the voice of Logiceus echoes in the engineers' dormitories. It is calm and merciless, conveying the day's work schedule and commands. There is no doubt, no contradiction, only brief and efficient instructions. Under the guidance of Logiceus, engineers function optimally like precisely programmed components, executing each calculated step without hesitation.
+Recipient: Engineer RB0416
 
-In the world of Logiceus, everything is for efficiency, for rationality, for the completion of the greatest endeavors. But in this highly programmed life, do the engineers begin to question? Do they still possess their own will, or have they merely become part of this immense machine?
+Date: A.R. 175, Day 243
+
+Regarding your application to preserve the Welston ancient architectural and sculptural sites, we have completed a comprehensive review and have decided not to approve your request. Below are the specific details:
+
+Based on calculations and simulations by Logiceus, maintaining the current landscape of the Welston area would extend the Atlas Project timeline by 3 to 5 years. Over the next decade, 6.3% of regions would lack stable access to electricity, overall production efficiency would decline to an estimated 87.3%, and resource consumption would increase by 12.2%.
+
+Welston's geographic location poses a significant obstruction to the construction of the core nodes of the Begis dam. Preserving the structures would substantially increase construction complexity and costs. While the ancient Welston sites hold notable historical and cultural value, the preservation plan has been classified as a "suboptimal option" and deemed non-viable for implementation.
+
+We must prioritize finding the optimal solution within the constraints of limited resources and unlimited needs. The sacrifice of Welston is a necessary step to ensure the success of the Atlas Project and the achievement of its primary objectives.
+
+Please proceed to adjust your team's construction plan to ensure the timely initiation of the demolition and dam construction work in the Welston area.
+
+P.S. Considering your special request, we will provide full digital recording support for the Welston architectural and sculptural sites. Recording equipment will be delivered within 24 hours, and your team is expected to complete the on-site operations and digital documentation within three days.
 
 
 ## FT D - Job Log
