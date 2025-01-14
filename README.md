@@ -4,7 +4,7 @@
 
 - [FT A - Leviathan](https://github.com/FoA-game/Fortress/blob/main/EP1/stories.md#ft-a---leviathan)
 - [FT B - Atlas Project](https://github.com/FoA-game/Fortress/blob/main/EP1/stories.md#ft-b---atlas-project)
-- [FT C - Leviathan](https://github.com/FoA-game/Fortress/blob/main/EP1/stories.md#ft-c---leviathan)
+- [FT C - Suboptimal Solution](https://github.com/FoA-game/Fortress/blob/main/EP1/stories.md#ft-c---suboptimal-solution)
 - [FT D - Job Log](https://github.com/FoA-game/Fortress/blob/main/EP1/stories.md#ft-d---job-log)
 - [FT E - Quantified Persona](https://github.com/FoA-game/Fortress/blob/main/EP1/stories.md#ft-e---quantified-persona)
 
