@@ -1,4 +1,4 @@
-## FT A - New Dawn
+## FT A - Leviathan
 
 Human civilization teeters on the edge of destruction. Will it continue to struggle in this shattered world or plunge into unending darkness? The aftermath of the Third Great Disruption remains unresolved, as vast habitable regions are eroded by Ceras. Humanity is trapped in a dual crisis of technological regression and resource depletion. To avoid total extinction, Upper Nuovartica established the Fortress in the northeastern canyon and awakened industrial experts from the old world, bringing new hope to the reconstruction of human society.
 
@@ -9,11 +9,16 @@ The residents of Fortress adhere strictly to discipline, embracing efficiency an
 
 ## FT B - Atlas Project
 
-Carrying the future, shaping tomorrow! The echoes of the Great Disruption still resonate, but the engineers of Fortress are set to forge the future. The year A.R. 175 marks the ambitious launch of the Atlas Project by Upper Nuovartica, a campaign not just for the comprehensive revival of civilization but a declaration for the destiny of mankind. This plan aims to construct a complete water supply system, an electrical grid, and communication stations, achieving a fully interconnected Auroria continent. The construction of the  Dam is the first chapter in this grand blueprint.
+Carrying the future, shaping tomorrow! Dear Engineers, We stand at a pivotal moment in history, entrusted with a great mission. To fully restore the order and glory of human civilization, we are proud to announce that the Atlas Project will officially launch in A.R. 175! This ambitious initiative aims to establish a comprehensive water supply system, power grid, and communication network, achieving full interconnection across the Auroria continent.
 
-Logiceus has meticulously planned every step and detail, ensuring the optimal execution of each task. This undoubtedly represents the best path for reshaping human society. Our engineers, the builders of this era, will be dispatched to every corner of Auroria. Their footprints will span barren deserts, icy mountains, and damp marshes, laying the foundation for the future with their wisdom and sweat, connecting the scattered hopes.
+Logiceus has meticulously planned every step and detail to ensure this is the most effective path to rebuilding human society. Along the major waterways of the Auroria continent, we will construct multiple integrated centers combining power generation, water supply, and computational functions. These centers will efficiently allocate hydropower resources while providing essential cooling for clean energy production and high-performance computing systems. To achieve long-term stability, some regions’ water resources will be temporarily reduced to optimize overall resource allocation.
 
-Our engineers are not just implementers of technology; they are pioneers of this era. Each of their steadfast efforts, every drop of their hard-earned sweat, is a solemn promise to the prosperity of the community. According to Logiceus' precise calculations, with strict adherence to the schedule, there is a 98.3761% confidence level that the Atlas Project will reach completion in 117 years. By then, Auroria will emerge as a new world interwoven with technology and hope, where lights reignite human dreams, illuminating a new age reborn from the ashes.
+To realize this grand vision, Fortress will consolidate and redistribute all available resources. Production and living supplies in non-critical areas will be reduced, and strategic materials from other regions will be requisitioned to free up capacity for intensive production tasks. Every resource will be allocated to its most critical use, and every engineer will play a vital role in this mission.
+
+According to Logiceus’ precise calculations, if timelines are strictly adhered to, the Atlas Project has a 99% probability of completion within 117 years. By then, Auroria will emerge as a new world interwoven with technology and hope, where lights reignite human dreams, illuminating a new age reborn from the ashes.
+
+For the greatest good!
+White Tower Council
 
 
 ## FT C - Leviathan
