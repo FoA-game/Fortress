@@ -31,14 +31,14 @@ A.R.175, Day 220 <br>
 Snuck an extra syrup today. Logi warned me that I have "excessive carbohydrate intake" but agreed that it boosted dopamine secretion, improving my work efficiency by 3.22%. Everything's about being efficient here, even my little rule-breaking moments.
 
 A.R.175, Day 222 <br>
-Got tossed into this project with vibration sensors. Kinda curious about what they're for, but who am I gonna ask? Logi calls the shots and that's that.
+Got tossed into this project with vibration sensors. Kinda curious about what they're for, but who am I gonna ask? Logi calls the shots, and I just follow.
 
 A.R.175, Day 223 <br>
 Rest day, finally. Logi booked me for 53 minutes of shuttleball at 3:26 PM. Says it's the best for my heart and lungs. Gotta keep my body in top shape, right?
 
 A.R.175, Day 224 <br>
 Working on those sensor thingies. Mid-bite at lunch, I remembered how much I dig drones. But, eh, Logiceus will probably never hook me up with drone stuff.  <br>
-Btw, lunch was blah today. That vitamin B taste could raise the dead. When will I stop needing extra supplements?
+Oh, and the lunch today? Blah. That vitamin B flavor could wake the dead. When will I stop needing these supplemental nutrients?
 
 A.R.175, Day 227 <br>
 Stood on the Fortress wall tonight, just me and the horizon. Dreaming about the day we wrap up the Atlas. But there's this hollow feeling...
