@@ -46,12 +46,12 @@ Stood on the Fortress wall tonight, just me and the horizon. Dreaming about the 
 
 ## FT E - Quantified Persona
 
-"Attention: 47 points; Comprehension: 91 points; Memory: 85 points; Self-control: 69 points, ...
+"Attention: 47 points; Comprehension: 91 points; Memory: 85 points; Self-control: 69 points, ..."
 
-RS0872, based on assessment, there is a 97.89% probability that your abnormal behavior is related to anxiety. Electro-signal therapy is recommended to maintain your work performance. I can schedule a session for you today, on the 237th day, at 20:38...
+"RS0872, based on assessment, there is a 97.89% probability that your abnormal behavior is related to anxiety. Electro-signal therapy is recommended to maintain your work performance. I can schedule a session for you today, on the 237th day, at 20:38..."
 
-Average task completion time: 105%; Accuracy: 98%, ...
+"Average task completion time: 105%; Accuracy: 98%, ..."
 
-RS0872, your average work completion time this month is 5% slower than predicted, which is unreasonable. This is unacceptable. Your tasks have been meticulously calculated, with enough time allocated for recreation and rest..."
+"RS0872, your average work completion time this month is 5% slower than predicted, which is unreasonable. This is unacceptable. Your tasks have been meticulously calculated, with enough time allocated for recreation and rest..."
 
 In Fortress, to ensure maximum productivity, Logiceus continuously monitors and evaluates every resident. Advanced algorithms and precise data analysis convert individual personality traits, skills, work performance, and contribution levels into quantifiable metrics. These numbers not only define their roles and responsibilities but also directly determine their social standing and lifestyle. Residents are meticulously classified and assigned to the most suitable projects, creating a highly optimized social structure. 
