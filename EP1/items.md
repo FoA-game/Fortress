@@ -19,7 +19,7 @@ Using this instrument, you will transform into an expert unbound by emotions - c
 The ancient amygdala is a relic of incomplete human evolution. In this new era, we will go even further.
 
 ### FT 05 - Shattered Tale
-Scattered words recount the ancient tale of The Disseverance of The One. <br>
+Scattered words recount the ancient tale of *The Disseverance of The One*. <br>
 In the golden age, mankind held the power to forge a god—and to tear it asunder. <br>
 Victory is ours; all shall serve our will—even the fragments of divinity.
 
