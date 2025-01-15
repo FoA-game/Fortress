@@ -18,10 +18,10 @@ A device that suppresses emotions and desires through electrical signals to enha
 Using this instrument, you will transform into an expert unbound by emotions - calm, rational, focused, and efficient. <br>
 The ancient amygdala is a relic of incomplete human evolution. In this new era, we will go even further.
 
-### FT 05 - Efficiency Manual
-The most popular audiobook in Fortress, played day after day through residents' personal communication devices. <br>
-"Striving for the highest action efficiency and optimal outcome effectiveness is the goal we should achieve." <br>
-Every word of it is a hymn to efficiency and rationality.
+### FT 05 - Shattered Tale
+Scattered words recount the ancient tale of The Disseverance of The One. <br>
+In the golden age, mankind held the power to forge a god—and to tear it asunder. <br>
+Victory is ours; all shall serve our will—even the fragments of divinity.
 
 ### FT 06 - Nutritional Drink
 Tailor-made for every engineer, this nutritional drink is designed to meet the physical and cognitive demands of efficient work. <br>
