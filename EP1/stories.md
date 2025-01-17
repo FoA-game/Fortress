@@ -9,7 +9,7 @@ The residents of Fortress adhere strictly to discipline, embracing efficiency an
 
 ## FT B - Atlas Project
 
-Carrying the future, shaping tomorrow! Dear Engineers, We stand at a pivotal moment in history, entrusted with a great mission. To fully restore the order and glory of human civilization, we are proud to announce that the Atlas Project will officially launch in A.R. 175! This ambitious initiative aims to establish a comprehensive water supply system, power grid, and communication network, achieving full interconnection across the Auroria continent.
+Carrying the future, shaping tomorrow! Dear Engineers, we stand at a pivotal moment in history, entrusted with a great mission. To fully restore the order and glory of human civilization, we are proud to announce that the Atlas Project will officially launch in A.R. 175! This ambitious initiative aims to establish a comprehensive water supply system, power grid, and communication network, achieving full interconnection across the Auroria continent.
 
 Logiceus has meticulously planned every step and detail to ensure this is the most effective path to rebuilding human society. Along the major waterways of the Auroria continent, we will construct multiple integrated centers combining power generation, water supply, and computational functions. These centers will efficiently allocate hydropower resources while providing essential cooling for clean energy production and high-performance computing systems. To achieve long-term stability, some regions’ water resources will be temporarily reduced to optimize overall resource allocation.
 
